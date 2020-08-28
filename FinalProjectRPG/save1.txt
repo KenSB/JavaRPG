@@ -1,0 +1,16 @@
+AREA3
+LVL
+2
+EXP
+3
+EQUIP1
+Practice Sword
+Leather Armour
+EQUIP2
+Wooden Staff
+Tattered Robes
+ITEMS
+----
+POTIONS
+1
+1
